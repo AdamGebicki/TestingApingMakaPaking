@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WmLomfFJLYG3S8eH6MWbM/vyXqUND2AHxPUmbtcMY5rIGtDIHGvp1Z52CNssysvqsFdw69F8KMKkZIxaZiS6ew==",
+  "success": true,
+  "projectFilePath": "D:\\Programming\\test\\test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adamg\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.1\\microsoft.extensions.dependencyinjection.5.0.1.nupkg.sha512",
+    "C:\\Users\\adamg\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
